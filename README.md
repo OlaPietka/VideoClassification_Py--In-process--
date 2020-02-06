@@ -2,13 +2,13 @@
 ** PROJECT STILL IN PROCESS**
 
 ## Description
-Violence recognition from video using recurrent neural network.
+Violence recognition from video using recurrent neural network.  
 Labels:
 * Violence
 * NotViolence
 
 
 <p align="center">
-  <img src="https://i.imgur.com/W7JoAjA.png">
-  <img src="https://i.imgur.com/xn266GL.png">
+  <img width="300" height="250" src="https://i.imgur.com/W7JoAjA.png">
+  <img width="300" height="250" src="https://i.imgur.com/xn266GL.png">
 </p>
