@@ -1,5 +1,5 @@
 # Video Recognition
-** PROJECT STILL IN PROCESS**
+** PROJECT STILL IN PROCESS **
 
 ## Description
 Violence recognition from video using recurrent neural network.  
